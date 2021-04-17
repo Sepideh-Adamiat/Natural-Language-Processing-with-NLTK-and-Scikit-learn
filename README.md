@@ -31,16 +31,19 @@ Public access to the dataset is provided by The National University of Singapore
 - Creating bag of word(BOW)
 - Vectorizing
 And for better visualization of the dataset, the word clouds of positive and negative sets are plotted.
+![alt text](https://github.com/Sepideh-Adamiat/Natural-Language-Processing-with-NLTK-and-Scikit-learn/blob/main/images/3.png)
+![alt text](https://github.com/Sepideh-Adamiat/Natural-Language-Processing-with-NLTK-and-Scikit-learn/blob/main/images/4.png)
 
 ### Training the classifiers
 Eight well-known machine learning classifiers are trained on the Twitter dataset, and the accuracy of the validation set is printed in a table. The models are built with the Scikit-Learn library.
-
+![alt text](https://github.com/Sepideh-Adamiat/Natural-Language-Processing-with-NLTK-and-Scikit-learn/blob/main/images/5.png)
 
 ### Testing and printing the results
 
 The classifiers are applied to the dataset from the National University of Singapore, and the calculated predicted negative and positive percentages are printed for the entire dataset as well as for each country.
  
- 
+ ![alt text](https://github.com/Sepideh-Adamiat/Natural-Language-Processing-with-NLTK-and-Scikit-learn/blob/main/images/6.png)
+ ![alt text](https://github.com/Sepideh-Adamiat/Natural-Language-Processing-with-NLTK-and-Scikit-learn/blob/main/images/7.png)
  
 ## Acknowledgment:
 This project is done as the proposed portfolio of https://www.codecademy.com/learn/paths/natural-language-processing.
