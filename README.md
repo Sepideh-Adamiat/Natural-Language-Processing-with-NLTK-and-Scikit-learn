@@ -1,10 +1,10 @@
 # Natural-Language-Processing-with-NLTK-and-Scikit-learn
 
-![alt text](https://github.com/Sepideh-Adamiat/Natural-Language-Processing-with-NLTK-and-Scikit-learn/blob/main/images/1.png)
+![img](https://github.com/Sepideh-Adamiat/Natural-Language-Processing-with-NLTK-and-Scikit-learn/blob/main/images/1.png)
 
 This is a sentiment analysis project using NLTK and Scikit-learn libraries. In this jupyter notebook, well-known machine learning algorithms are trained on a Twitter dataset and then applied to the "The National University of Singapore SMS Corpus dataset".
 
-![alt text](https://github.com/Sepideh-Adamiat/Natural-Language-Processing-with-NLTK-and-Scikit-learn/blob/main/images/2.png)
+![img](https://github.com/Sepideh-Adamiat/Natural-Language-Processing-with-NLTK-and-Scikit-learn/blob/main/images/2.png)
 
 Finally, the percentage of positive and negative messages is compared based on 10 different countries.
 
@@ -31,8 +31,10 @@ Public access to the dataset is provided by The National University of Singapore
 - Creating bag of word(BOW)
 - Vectorizing
 And for better visualization of the dataset, the word clouds of positive and negative sets are plotted.
-![alt text](https://github.com/Sepideh-Adamiat/Natural-Language-Processing-with-NLTK-and-Scikit-learn/blob/main/images/3.png)
-![alt text](https://github.com/Sepideh-Adamiat/Natural-Language-Processing-with-NLTK-and-Scikit-learn/blob/main/images/4.png)
+
+![img](https://github.com/Sepideh-Adamiat/Natural-Language-Processing-with-NLTK-and-Scikit-learn/blob/main/images/3.png)
+
+![img](https://github.com/Sepideh-Adamiat/Natural-Language-Processing-with-NLTK-and-Scikit-learn/blob/main/images/4.png)
 
 ### Training the classifiers
 Eight well-known machine learning classifiers are trained on the Twitter dataset, and the accuracy of the validation set is printed in a table. The models are built with the Scikit-Learn library.
@@ -42,8 +44,10 @@ Eight well-known machine learning classifiers are trained on the Twitter dataset
 
 The classifiers are applied to the dataset from the National University of Singapore, and the calculated predicted negative and positive percentages are printed for the entire dataset as well as for each country.
  
- ![alt text](https://github.com/Sepideh-Adamiat/Natural-Language-Processing-with-NLTK-and-Scikit-learn/blob/main/images/6.png)
- ![alt text](https://github.com/Sepideh-Adamiat/Natural-Language-Processing-with-NLTK-and-Scikit-learn/blob/main/images/7.png)
+ ![img](https://github.com/Sepideh-Adamiat/Natural-Language-Processing-with-NLTK-and-Scikit-learn/blob/main/images/6.png)
+ 
+ ![img](https://github.com/Sepideh-Adamiat/Natural-Language-Processing-with-NLTK-and-Scikit-learn/blob/main/images/7.png)
+ 
  
 ## Acknowledgment:
 This project is done as the proposed portfolio of https://www.codecademy.com/learn/paths/natural-language-processing.
