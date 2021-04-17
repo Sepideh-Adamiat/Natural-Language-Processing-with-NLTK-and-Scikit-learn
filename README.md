@@ -16,7 +16,7 @@ All python packages needed are listed in requirements.txt file and can be instal
 - matplotlib
  
 ## Data:
-Public access to the dataset is provided by The National University of Singapore. This dataset contains 67,093 text messages (SMSs) taken from the corpus on Mar 9, 2015 and mostly is comprised of messages from Singaporeans and students attending the University. You can download it from this.
+Public access to the dataset is provided by The National University of Singapore. This dataset contains 67,093 text messages (SMSs) taken from the corpus on Mar 9, 2015 and mostly is comprised of messages from Singaporeans and students attending the University. You can download it from [this](https://static-assets.codecademy.com/skillpaths/nlp/portfolio-project/clean_nus_sms.csv.zip).
  
 ## Roadmap
 ### Preprocessing 
