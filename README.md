@@ -7,13 +7,13 @@ Finally, the percentage of positive and negative messages is compared based on 1
 ## Requirements:
 All python packages needed are listed in requirements.txt file and can be installed simply using the pip command.
 
-- pandas
-- Nltk
-- re
-- wordcloud
-- numpy
-- Scikit-learn
-- matplotlib
+- [pandas](https://pandas.pydata.org/)
+- [Nltk](https://www.nltk.org/)
+- [re](https://docs.python.org/3/library/re.html)
+- [wordcloud](https://pypi.org/project/wordcloud/)
+- [numpy](http://www.numpy.org/)
+- [Scikit-learn](http://scikit-learn.org/stable/)
+- [matplotlib](https://matplotlib.org/)
  
 ## Data:
 Public access to the dataset is provided by The National University of Singapore. This dataset contains 67,093 text messages (SMSs) taken from the corpus on Mar 9, 2015 and mostly is comprised of messages from Singaporeans and students attending the University. You can download it from [this](https://static-assets.codecademy.com/skillpaths/nlp/portfolio-project/clean_nus_sms.csv.zip).
