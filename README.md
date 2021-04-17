@@ -3,7 +3,8 @@
 This is a sentiment analysis project using NLTK and Scikit-learn libraries. In this jupyter notebook, well-known machine learning algorithms are trained on a Twitter dataset and then applied to the "The National University of Singapore SMS Corpus dataset".
 
 Finally, the percentage of positive and negative messages is compared based on 10 different countries.
-Requirements:
+
+## Requirements:
 All python packages needed are listed in requirements.txt file and can be installed simply using the pip command.
 pandas
 Nltk
