@@ -12,7 +12,7 @@ All python packages needed are listed in requirements.txt file and can be instal
 - re
 - wordcloud
 - numpy
-- sklearn
+- Scikit-learn
 - matplotlib
  
 ## Data:
