@@ -20,14 +20,15 @@ Public access to the dataset is provided by The National University of Singapore
  
 ## Roadmap
 ### Preprocessing 
-Changing to lowercase and removing punctuation,
-Removing empty messages
-Tokenizing the messages
-Removing stopwords
-Creating bag of word(BOW)
-Vectorizing
+- Changing to lowercase and removing punctuation,
+- Removing empty messages
+- Tokenizing the messages
+- Removing stopwords
+- Creating bag of word(BOW)
+- Vectorizing
 And for better visualization of the dataset, the word clouds of positive and negative sets are plotted.
-Training the classifiers
+
+###Training the classifiers
 Eight well-known machine learning classifiers are trained on the Twitter dataset, and the accuracy of the validation set is printed in a table. The models are built with the Scikit-Learn library.
 
 
