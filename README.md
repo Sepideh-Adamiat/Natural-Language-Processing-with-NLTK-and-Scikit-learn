@@ -32,9 +32,9 @@ Public access to the dataset is provided by The National University of Singapore
 - Vectorizing
 And for better visualization of the dataset, the word clouds of positive and negative sets are plotted.
 
-![img](https://github.com/Sepideh-Adamiat/Natural-Language-Processing-with-NLTK-and-Scikit-learn/blob/main/images/3.png)
+![img](https://github.com/Sepideh-Adamiat/Natural-Language-Processing-with-NLTK-and-Scikit-learn/blob/main/images/3.jpg)
 
-![img](https://github.com/Sepideh-Adamiat/Natural-Language-Processing-with-NLTK-and-Scikit-learn/blob/main/images/4.png)
+![img](https://github.com/Sepideh-Adamiat/Natural-Language-Processing-with-NLTK-and-Scikit-learn/blob/main/images/4.jpg)
 
 ### Training the classifiers
 Eight well-known machine learning classifiers are trained on the Twitter dataset, and the accuracy of the validation set is printed in a table. The models are built with the Scikit-Learn library.
@@ -46,7 +46,7 @@ The classifiers are applied to the dataset from the National University of Singa
  
  ![img](https://github.com/Sepideh-Adamiat/Natural-Language-Processing-with-NLTK-and-Scikit-learn/blob/main/images/6.png)
  
- ![img](https://github.com/Sepideh-Adamiat/Natural-Language-Processing-with-NLTK-and-Scikit-learn/blob/main/images/7.png)
+ ![img](https://github.com/Sepideh-Adamiat/Natural-Language-Processing-with-NLTK-and-Scikit-learn/blob/main/images/7.jpg)
  
  
 ## Acknowledgment:
